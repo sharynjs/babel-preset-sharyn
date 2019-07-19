@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-sharyn",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "main": "index.js",
   "repository": "git@github.com:sharynjs/babel-preset-sharyn.git",
   "license": "MIT",

@@ -37,3 +37,9 @@ In development only:
 babel-plugin-flow-react-proptypes
 react-hot-loader/babel
 ```
+
+<hr />
+
+<p align="center">
+  This package is part of <a href="https://github.com/sharynjs/sharyn"><b>@sharynjs/sharyn</b></a>.
+</p>

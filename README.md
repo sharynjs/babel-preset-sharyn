@@ -1,5 +1,7 @@
 # 🌹 babel-preset-sharyn
 
+I am currently using TypeScript instead of Babel and Flow for my projects, so this package won't be updated.
+
 ## Usage
 
 In `package.json`, use:
